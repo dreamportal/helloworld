@@ -95,7 +95,7 @@
 		<dependency>
     <groupId>org.mule</groupId>
     <artifactId>mule-core</artifactId>
-    <version>3.8.1</version>
+    <version>${mule.version}</version>
 </dependency>
 		<dependency>
         	<groupId>com.mulesoft.muleesb</groupId>
